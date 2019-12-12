@@ -1,8 +1,3 @@
-//Serap BAYSAL 365281
-//Matris islemleri yapabilen sinif ve bundan turetilmis görüntü isleme ve tablo sinifları
-//365281@ogr.ktu.edu.tr
-//05370339576
-
 #include <iostream> //Kutuphaneler tanimlandi
 #include <stdlib.h>
 #include<fstream>
